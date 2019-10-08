@@ -1,0 +1,18 @@
+{
+  "framerate": 8,
+  "images": ["img/hero.png"],
+  "frames": {"width":92, "height":92, "regX":0, "regY":0},
+  "animations": {
+      "down": [0,2],
+      "left": [3,5],
+      "right":[6,8],
+      "up":[9,11],
+      "standDown": [1],
+      "standLeft": [4],
+      "standRight": [7],
+      "standUp": [10]
+  },
+  "_comment": "I found it here: https://grandmadebslittlebits.wordpress.com/"
+
+
+}

@@ -1,0 +1,15 @@
+@font-face {
+  font-family: Pecita;
+  src: url(../font/Pecita.otf);
+  /*from Dafont.com*/
+}
+
+body {
+  background-color: #1a0730;
+}
+
+canvas {
+
+  display: block;
+  margin: auto;
+}

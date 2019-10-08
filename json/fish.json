@@ -1,0 +1,16 @@
+{
+  "framerate": 12,
+  "images": ["img/fish.png"],
+  "frames": {"width":32, "height":32, "regX":0, "regY":0},
+  "animations": {
+      "blueLeft": [3,5],
+      "blueRight":[6,8],
+      "redLeft": [3,5],
+      "redRight":[6,8],
+      "greenLeft": [3,5],
+      "greenRight":[6,8],
+      "whiteLeft": [3,5],
+      "whiteRight":[6,8]
+  },
+  "_comment": "I found it here: https://forums.rpgmakerweb.com/index.php?threads/whtdragons-animals-and-running-horses-now-with-more-dragons.53552/"
+}

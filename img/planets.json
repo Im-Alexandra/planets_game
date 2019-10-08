@@ -1,0 +1,28 @@
+{
+
+"images": [
+    "img/planets.png"
+],
+
+"frames": [
+    [1, 1, 278, 256, 0, 0, 0],
+    [1, 259, 275, 242, 0, 0, 0],
+    [281, 1, 151, 136, 0, 0, 0],
+    [281, 139, 100, 136, 0, 0, 0],
+    [278, 277, 192, 153, 0, 0, 0]
+],
+
+"animations": {
+    "windPlanet": { "frames": [0] },
+    "waterPlanet": { "frames": [1] },
+    "icePlanet": { "frames": [2] },
+    "lock": { "frames": [3] },
+    "firePlanet": { "frames": [4] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:aa73d0be6d9fa878414560d9a31ee2e2:a3501bb0d1a87e0edcd89284652fa923:b39012af8c10e6f2542ba48f4ca1957d$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}

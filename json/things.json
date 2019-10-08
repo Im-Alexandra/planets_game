@@ -1,0 +1,44 @@
+{
+
+"images": [
+    "img/things.png"
+],
+
+"frames": [
+    [1, 1, 278, 256, 0, 0, 0],
+    [1, 259, 275, 242, 0, 0, 0],
+    [278, 259, 180, 180, 0, 0, 0],
+    [278, 441, 120, 40, 0, 0, 0],
+    [400, 441, 70, 69, 0, 0, 0],
+    [281, 1, 180, 180, 0, 0, 0],
+    [281, 183, 50, 74, 0, 0, 0],
+    [333, 183, 50, 74, 0, 0, 0],
+    [460, 183, 180, 180, 0, 0, 0],
+    [472, 365, 151, 136, 0, 0, 0],
+    [625, 365, 100, 136, 0, 0, 0],
+    [463, 1, 192, 153, 0, 0, 0],
+    [642, 156, 100, 165, 0, 0, 0]
+],
+
+"animations": {
+    "windPlanet": { "frames": [0] },
+    "waterPlanet": { "frames": [1] },
+    "level01": { "frames": [2] },
+    "arrow": { "frames": [3] },
+    "heart": { "frames": [4] },
+    "level02": { "frames": [5] },
+    "fireBonus": { "frames": [6] },
+    "waterBonus": { "frames": [7] },
+    "level03": { "frames": [8] },
+    "icePlanet": { "frames": [9] },
+    "lock": { "frames": [10] },
+    "firePlanet": { "frames": [11] },
+    "rocket": { "frames": [12] }
+},
+
+"texturepacker": [
+        "SmartUpdateHash: $TexturePacker:SmartUpdate:1262fbe4618975021d7f0dfe3c672592:0b62650c9a935e69bb5720b9bf10ad67:a7ffc03d719097afff7952cb633fb6e1$",
+        "Created with TexturePacker (https://www.codeandweb.com/texturepacker) for EaselJS"
+]
+
+}
